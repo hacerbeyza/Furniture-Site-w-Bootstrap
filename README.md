@@ -1,4 +1,4 @@
-#Proje Ana Sayfası:
+*Proje Ana Sayfası:
 
 ![Proje Ekranı](/img/proje-ekranı.png)
 
