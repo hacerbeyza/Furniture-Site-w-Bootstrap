@@ -1,3 +1,3 @@
-("C:\Users\User\OneDrive\Resimler\Ekran Görüntüleri\Ekran görüntüsü 2025-08-14 115754.png")
+https://github.com/hacerbeyza/Furniture-Site-w-Bootstrap/issues/1#issue-3321419914
 
 [Canlı görüntüle](https://hacerbeyza.github.io/Furniture-Site-w-Bootstrap/) 
